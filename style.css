@@ -1,0 +1,138 @@
+html {
+    height: 100%;
+    width: 100%;
+    background-color: lightblue;
+  }
+h1 {
+    color: blue;
+    text-align: center;
+  }
+
+.funnyimage {
+    border-color: rgb(0, 0, 0);
+    padding: 10px;
+  }
+.Welcome{
+    color: blue;
+    text-align: center;
+    
+  }
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    height: auto;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: lightblue;
+}
+  li {
+    display: inline-block;
+    padding: 10px;    
+    font-size: large;
+  }
+  nav {
+    background-color: rgb(0, 0, 0);
+    color: black;
+    padding: 5px;
+    text-align: center;
+  }
+  .image2 {
+    border-color: rgb(0, 0, 0);
+    padding: 10px;
+    position: absolute;
+    left: 20px;
+  }
+  .image3 {
+    border-color: rgb(0, 0, 0);
+    padding: 10px;
+  }
+  .image4 {
+    border-color: rgb(0, 0, 0);
+    padding: 10px;
+    position: absolute;
+    right: 20px;
+    position: absolute;
+    bottom: 363px;
+  }
+.image5 {
+    border-color: rgb(0, 0, 0);
+    padding: 10px;
+    position: absolute;
+    right: 20px;
+    position: absolute;
+    top: px;
+  }
+  p {
+    color: black;
+    text-align: center;
+    font-size: large;
+    position: absolute;
+    bottom: 225px;
+  }
+  .p1 {
+    color: black;
+    text-align: center;
+    font-size: large;
+    text-overflow: ellipsis;
+  }
+.image6 {
+    border-color: rgb(0, 0, 0);
+    padding: 10px;
+    position: absolute;
+    right: 20px;
+    position: absolute;
+    right: 1250px;
+    top: 100px;
+  }
+  .image7 {
+    border-color: rgb(0, 0, 0);
+    padding: 10px;
+    position: absolute;
+    right: 20px;
+    position: absolute;
+    top: 10px;
+  }
+  .image8 {
+    border-color: rgb(0, 0, 0);
+    padding: 10px;
+    position: absolute;
+    right: 20px;
+    position: absolute;
+    right: 1250px;
+  }
+  .image9 {
+    border-color: rgb(0, 0, 0);
+    padding: 10px;
+    position: absolute;
+    right: 20px;
+    position: absolute;
+    top: 11px;
+  }
+  .p2 {
+    color: black;
+    text-align: center;
+    font-size: large;
+    position: absolute;
+    bottom: 125px;
+  }
+  .p3 {
+    color: black;
+    text-align: center;
+    font-size: large;
+    position: absolute;
+    bottom: 325px;
+  }
+  .song-list {
+    color: black;
+    text-align: center;
+    font-size: large;
+    position: absolute;
+    bottom: 334px;
+    left: 420px;
+  }
